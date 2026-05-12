@@ -26,9 +26,3 @@ books_data.csv
 ```bash
 pip install -r requirements.txt
 python main.py
-
-## Google Colab Notebook
-(https://colab.research.google.com/drive/109vimq4BeCKiNKQKsG4waAGmcOw7UmdQ?usp=sharing)
-
-## Google Colab Notebook
-(https://colab.research.google.com/drive/109vimq4BeCKiNKQKsG4waAGmcOw7UmdQ?usp=sharing)
